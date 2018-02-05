@@ -12,3 +12,5 @@ I and you
 
 you and I
 >>>>>>> feature
+
+bug occurred
