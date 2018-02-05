@@ -8,5 +8,11 @@ I created a branch called dev
 
 
 you and I
+<<<<<<< HEAD
 
 fix bug-101
+=======
+>>>>>>> feature
+
+bug occurred
+>>>>>>> dev
