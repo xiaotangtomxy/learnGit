@@ -6,4 +6,9 @@ I have done something and i wish you can see it
 
 I created a branch called dev
 
+<<<<<<< HEAD
 I and you
+=======
+
+you and I
+>>>>>>> feature
